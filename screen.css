@@ -1,7 +1,8 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
-}
 body {
-    background: #aaa
+    background: #fff;
+    font-family: Helvetica, sans-seriff;
+}
+
+img {
+    width: 100%;
 }
